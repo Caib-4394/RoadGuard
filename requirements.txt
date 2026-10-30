@@ -1,0 +1,30 @@
+# RoadGuard — Python Dependencies
+
+# Core ML / Detection
+ultralytics>=8.3.0
+torch>=2.1.0
+torchvision>=0.16.0
+grad-cam>=1.5.0
+
+# Image Processing
+opencv-python-headless>=4.9.0
+Pillow>=10.3.0
+numpy>=1.26.0
+
+# Geospatial
+osmnx>=1.9.0
+geopandas>=0.14.0
+shapely>=2.0.0
+folium>=0.16.0
+
+# Web / UI
+streamlit>=1.37.0
+streamlit-folium>=0.20.0
+plotly>=5.20.0
+
+# Data
+pandas>=2.2.0
+
+# Utilities
+piexif>=1.1.3
+tqdm>=4.66.0
